@@ -14,6 +14,9 @@
 ## Link to App on Appetize.io
 [InputDisplay App](https://appetize.io/app/b0njk3pq9z8mk9cc4fhxb9pex8?device=nexus5&scale=75&orientation=portrait&osVersion=8.1)
 
+# Learn more about this Internship Program
+Visit [HNG Website](https://hng.tech/)
+
 
 
 
