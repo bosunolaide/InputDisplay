@@ -1,5 +1,8 @@
 # Stage 2 -> 3 Task
 
+## Link to Question 2 in Repo
+[Name-Program](https://github.com/bosunolaide/zuri_hng_input-display_app/tree/main/Name-Program)
+
 ## App Screenshots
 ### On Mobile
 ![Screenshot_2014-01-01-15-58-17](https://user-images.githubusercontent.com/72774774/130215812-1f56391e-ed6e-4a2f-8091-ed7d44b7858a.png)
