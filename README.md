@@ -7,7 +7,7 @@
 
 ## App Screenshots
 ### On Mobile
-![Screenshot_2014-01-01-15-58-17](https://user-images.githubusercontent.com/72774774/130215812-1f56391e-ed6e-4a2f-8091-ed7d44b7858a.png)
+![Screenshot_2014-01-01-15-58-01](https://user-images.githubusercontent.com/72774774/130221902-00521847-3887-4798-9583-d95b9e9d3cca.png)
 ### On Appetize.io
 ![2021-08-20 09-45-53 High Res Screenshot](https://user-images.githubusercontent.com/72774774/130217639-246c7528-6b19-4234-a7ac-bfcb621f68cb.png)
 
