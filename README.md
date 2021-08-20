@@ -1,3 +1,5 @@
+[![hng-logo](https://user-images.githubusercontent.com/72774774/130220078-ae5ea593-d635-481b-9bbd-656e0f54aa14.png)](https://hng.tech/)
+
 # Stage 2 -> 3 Task
 
 ## Link to Question 2 in Repo
